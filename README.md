@@ -1,2 +1,2 @@
 # Talker-Bot
-A Discord bot that i made.
+The source code will come at some point.
